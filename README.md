@@ -1,4 +1,4 @@
-Version:Notepad++6.5（Windows client）
+Version:Notepad++6.5（Windows Clients）
 Manufacturer's website information:https://notepad-plus-plus.org/
 
 # POC of notepad++ software dll hijacking vulnerability

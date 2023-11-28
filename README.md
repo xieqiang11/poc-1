@@ -1,7 +1,6 @@
-Vendor:Notepad++
 Product:Notepad++
-Version:Notepad++  6.5
-Link:https://notepad-plus-plus.org/
+Version:Notepad++6.5
+Manufacturer's website information:https://notepad-plus-plus.org/
 
 # POC of notepad++ software dll hijacking vulnerability
 
